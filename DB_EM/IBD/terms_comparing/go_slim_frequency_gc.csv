@@ -1,0 +1,58 @@
+GO_Slim_ID,GO_Slim_Name,Frequency
+GO:0002376,immune system process,97
+GO:0048856,anatomical structure development,39
+GO:0030154,cell differentiation,35
+GO:0006629,lipid metabolic process,20
+GO:0048870,cell motility,11
+GO:1901135,carbohydrate derivative metabolic process,10
+GO:0006355,regulation of DNA-templated transcription,9
+GO:0031410,cytoplasmic vesicle,9
+GO:0005975,carbohydrate metabolic process,8
+GO:0023052,signaling,8
+GO:0006954,inflammatory response,8
+GO:0012501,programmed cell death,6
+GO:0098542,defense response to other organism,6
+GO:0006310,DNA recombination,6
+GO:0043226,organelle,6
+GO:0006091,generation of precursor metabolites and energy,5
+GO:0005764,lysosome,5
+GO:0098772,molecular function regulator activity,5
+GO:0050877,nervous system process,5
+GO:0055086,nucleobase-containing small molecule metabolic process,4
+GO:0016787,hydrolase activity,4
+GO:0006766,vitamin metabolic process,4
+GO:0006914,autophagy,4
+GO:0016192,vesicle-mediated transport,3
+GO:0007155,cell adhesion,3
+GO:0006913,nucleocytoplasmic transport,3
+GO:0060089,molecular transducer activity,3
+GO:0140657,ATP-dependent activity,3
+GO:0034330,cell junction organization,3
+GO:0006351,DNA-templated transcription,3
+GO:0006886,intracellular protein transport,2
+GO:0048018,receptor ligand activity,2
+GO:0022600,digestive system process,2
+GO:0005773,vacuole,2
+GO:0007005,mitochondrion organization,2
+GO:0042060,wound healing,2
+GO:0005768,endosome,2
+GO:0005215,transporter activity,2
+GO:0003013,circulatory system process,2
+GO:0000278,mitotic cell cycle,1
+GO:0030198,extracellular matrix organization,1
+GO:0008289,lipid binding,1
+GO:0005576,extracellular region,1
+GO:0060090,molecular adaptor activity,1
+GO:0005886,plasma membrane,1
+GO:0005615,extracellular space,1
+GO:0065003,protein-containing complex assembly,1
+GO:0005794,Golgi apparatus,1
+GO:0055085,transmembrane transport,1
+GO:0030163,protein catabolic process,1
+GO:0005856,cytoskeleton,1
+GO:0003824,catalytic activity,1
+GO:0061024,membrane organization,1
+GO:0016491,oxidoreductase activity,1
+GO:0007040,lysosome organization,1
+GO:0005783,endoplasmic reticulum,1
+GO:0005829,cytosol,1

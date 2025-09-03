@@ -1,0 +1,654 @@
+GO:0060255	2.75814654469197e-39	regulation of macromolecule metabolic process
+GO:0019222	6.404072482790412e-38	regulation of metabolic process
+GO:0010468	7.645153654180461e-38	regulation of gene expression
+GO:0080090	7.645153654180461e-38	regulation of primary metabolic process
+GO:0010556	5.347197174027041e-37	regulation of macromolecule biosynthetic process
+GO:0009889	9.575344374804247e-37	regulation of biosynthetic process
+GO:0010604	3.3308641434236424e-34	positive regulation of macromolecule metabolic process
+GO:0009893	3.8232637215197314e-34	positive regulation of metabolic process
+GO:0019219	1.4691577108203729e-30	regulation of nucleobase-containing compound metabolic process
+GO:0051252	1.8574422806568026e-30	regulation of RNA metabolic process
+GO:0048522	2.851945779095699e-30	positive regulation of cellular process
+GO:0009891	2.9780057664963363e-30	positive regulation of biosynthetic process
+GO:0006355	5.119299962605189e-30	regulation of DNA-templated transcription
+GO:2001141	6.315916880044203e-30	regulation of RNA biosynthetic process
+GO:0048518	2.7199434406387156e-29	positive regulation of biological process
+GO:0010557	9.867303138314624e-29	positive regulation of macromolecule biosynthetic process
+GO:0048523	7.214934056389489e-28	negative regulation of cellular process
+GO:0006357	1.1358950408904204e-26	regulation of transcription by RNA polymerase II
+GO:0048519	2.1336265140712115e-26	negative regulation of biological process
+GO:0045935	5.760447055353107e-26	positive regulation of nucleobase-containing compound metabolic process
+GO:0010605	8.614926243484603e-26	negative regulation of macromolecule metabolic process
+GO:0051254	9.750661303269378e-26	positive regulation of RNA metabolic process
+GO:0009892	2.443673997847464e-25	negative regulation of metabolic process
+GO:0045893	3.329572914586296e-25	positive regulation of DNA-templated transcription
+GO:1902680	3.400123881028009e-25	positive regulation of RNA biosynthetic process
+GO:0010558	2.374507383172738e-24	negative regulation of macromolecule biosynthetic process
+GO:0009890	1.4164099068280233e-23	negative regulation of biosynthetic process
+GO:0050794	3.407983775243735e-23	regulation of cellular process
+GO:0045944	6.257524115034077e-22	positive regulation of transcription by RNA polymerase II
+GO:0050789	1.6564200662990453e-21	regulation of biological process
+GO:0045595	6.061418812956892e-20	regulation of cell differentiation
+GO:0065007	7.442099361165657e-20	biological regulation
+GO:0030154	8.52989248895659e-20	cell differentiation
+GO:0048869	8.756782733471737e-19	cellular developmental process
+GO:0045934	1.4521382725765824e-18	negative regulation of nucleobase-containing compound metabolic process
+GO:0051239	5.383338376961728e-18	regulation of multicellular organismal process
+GO:0000122	1.3162871537306467e-17	negative regulation of transcription by RNA polymerase II
+GO:0050793	1.5909398402448938e-17	regulation of developmental process
+GO:0045892	2.853558909037586e-17	negative regulation of DNA-templated transcription
+GO:1902679	3.750018136182044e-17	negative regulation of RNA biosynthetic process
+GO:0032502	7.355081461440764e-17	developmental process
+GO:0051253	9.559469983589612e-17	negative regulation of RNA metabolic process
+GO:0009968	5.768006454150982e-16	negative regulation of signal transduction
+GO:0009966	3.3247390108298267e-15	regulation of signal transduction
+GO:0051094	4.140957652107003e-15	positive regulation of developmental process
+GO:0023057	6.259101686811715e-15	negative regulation of signaling
+GO:0010648	6.259101686811715e-15	negative regulation of cell communication
+GO:0051240	9.004473906702088e-15	positive regulation of multicellular organismal process
+GO:0042127	9.707773237330317e-15	regulation of cell population proliferation
+GO:0048583	2.985287824465243e-14	regulation of response to stimulus
+GO:0048585	7.936346714146793e-14	negative regulation of response to stimulus
+GO:0010646	9.511890899535795e-14	regulation of cell communication
+GO:0042221	1.255849275533308e-13	response to chemical
+GO:0023051	3.7476086368689553e-13	regulation of signaling
+GO:2000026	8.368140417199956e-13	regulation of multicellular organismal development
+GO:0032501	9.392746423886218e-13	multicellular organismal process
+GO:0008284	1.7219804740919186e-12	positive regulation of cell population proliferation
+GO:0051241	4.497081655693641e-12	negative regulation of multicellular organismal process
+GO:0042981	4.658019247200996e-12	regulation of apoptotic process
+GO:0045597	8.400913087979373e-12	positive regulation of cell differentiation
+GO:0043067	1.0425779829507775e-11	regulation of programmed cell death
+GO:1901700	1.3630033601517801e-11	response to oxygen-containing compound
+GO:1902531	4.938787356872048e-11	regulation of intracellular signal transduction
+GO:0009628	1.2254990211221906e-10	response to abiotic stimulus
+GO:1902532	2.7890691396028756e-10	negative regulation of intracellular signal transduction
+GO:0048584	3.954854389454087e-10	positive regulation of response to stimulus
+GO:0060284	6.167160958150101e-10	regulation of cell development
+GO:0051246	7.211494090848732e-10	regulation of protein metabolic process
+GO:0051093	1.5526997325071254e-09	negative regulation of developmental process
+GO:0048513	1.8801842745401626e-09	animal organ development
+GO:0010629	2.136088266921514e-09	negative regulation of gene expression
+GO:0010647	2.3416399237461e-09	positive regulation of cell communication
+GO:0023056	2.3538515351785027e-09	positive regulation of signaling
+GO:0048856	2.3632726816896965e-09	anatomical structure development
+GO:0009653	5.776054449578491e-09	anatomical structure morphogenesis
+GO:0031399	6.323399467707361e-09	regulation of protein modification process
+GO:0009967	8.457558990855514e-09	positive regulation of signal transduction
+GO:0001817	1.099096509181143e-08	regulation of cytokine production
+GO:0045596	1.1553233754037101e-08	negative regulation of cell differentiation
+GO:0051716	1.2722808802486038e-08	cellular response to stimulus
+GO:1902105	1.3817307532212373e-08	regulation of leukocyte differentiation
+GO:0002682	1.7520953286314524e-08	regulation of immune system process
+GO:0010628	1.844922730624054e-08	positive regulation of gene expression
+GO:0051247	3.114771433916658e-08	positive regulation of protein metabolic process
+GO:0043069	4.095979310164285e-08	negative regulation of programmed cell death
+GO:0050896	5.627199840962854e-08	response to stimulus
+GO:1902533	6.05132295694054e-08	positive regulation of intracellular signal transduction
+GO:0033993	6.430856449757271e-08	response to lipid
+GO:0070887	6.430856449757271e-08	cellular response to chemical stimulus
+GO:0009719	8.476079240698194e-08	response to endogenous stimulus
+GO:0043066	1.0622257709880119e-07	negative regulation of apoptotic process
+GO:0001819	1.2468298489773054e-07	positive regulation of cytokine production
+GO:0031401	1.4409711658579133e-07	positive regulation of protein modification process
+GO:0007507	2.1643520806879292e-07	heart development
+GO:0065009	3.016750497846372e-07	regulation of molecular function
+GO:1903706	3.330626484901737e-07	regulation of hemopoiesis
+GO:0048468	4.2027119409514783e-07	cell development
+GO:0002521	5.086643426434639e-07	leukocyte differentiation
+GO:0051128	1.1513519993444694e-06	regulation of cellular component organization
+GO:0035239	1.1513519993444694e-06	tube morphogenesis
+GO:0043523	1.6740940357597287e-06	regulation of neuron apoptotic process
+GO:0019220	1.955527785145052e-06	regulation of phosphate metabolic process
+GO:0051174	1.9844067201665845e-06	regulation of phosphorus metabolic process
+GO:0034612	2.317807282080288e-06	response to tumor necrosis factor
+GO:0044093	3.0356556967170018e-06	positive regulation of molecular function
+GO:0003208	3.8085931296988448e-06	cardiac ventricle morphogenesis
+GO:1901701	4.160609296797876e-06	cellular response to oxygen-containing compound
+GO:0001932	4.160609296797876e-06	regulation of protein phosphorylation
+GO:0008283	4.646684926363105e-06	cell population proliferation
+GO:0010720	4.715013383154528e-06	positive regulation of cell development
+GO:0002684	5.0831084032025075e-06	positive regulation of immune system process
+GO:0035556	5.985775670009824e-06	intracellular signal transduction
+GO:0051338	6.069172000198853e-06	regulation of transferase activity
+GO:0030217	7.350530350244079e-06	T cell differentiation
+GO:0003206	8.344039866307968e-06	cardiac chamber morphogenesis
+GO:0042325	1.2985137675395732e-05	regulation of phosphorylation
+GO:0042110	1.712630307415451e-05	T cell activation
+GO:0003002	1.7183506348243738e-05	regionalization
+GO:0046620	1.791387859823659e-05	regulation of organ growth
+GO:0045937	1.791387859823659e-05	positive regulation of phosphate metabolic process
+GO:0010562	1.791387859823659e-05	positive regulation of phosphorus metabolic process
+GO:0030335	1.8022210872413076e-05	positive regulation of cell migration
+GO:0035914	1.9790357007091206e-05	skeletal muscle cell differentiation
+GO:0009887	1.9790357007091206e-05	animal organ morphogenesis
+GO:0002761	1.9850289708410983e-05	regulation of myeloid leukocyte differentiation
+GO:0050790	2.0076451930002256e-05	regulation of catalytic activity
+GO:1903131	2.1962818472049427e-05	mononuclear cell differentiation
+GO:0030155	2.991112596257237e-05	regulation of cell adhesion
+GO:0002237	2.9947116605105383e-05	response to molecule of bacterial origin
+GO:0080134	3.283809431704844e-05	regulation of response to stress
+GO:0045619	3.3386677112470526e-05	regulation of lymphocyte differentiation
+GO:2000147	3.3386677112470526e-05	positive regulation of cell motility
+GO:0002683	3.556951662393229e-05	negative regulation of immune system process
+GO:0048660	4.0921515733883513e-05	regulation of smooth muscle cell proliferation
+GO:0048762	4.2653091730215735e-05	mesenchymal cell differentiation
+GO:0040017	4.6318871498479e-05	positive regulation of locomotion
+GO:0051726	4.7979736607806946e-05	regulation of cell cycle
+GO:0048863	4.820088815522126e-05	stem cell differentiation
+GO:0071356	4.820088815522126e-05	cellular response to tumor necrosis factor
+GO:0034097	4.8531666503916626e-05	response to cytokine
+GO:0007389	5.588223633836801e-05	pattern specification process
+GO:0033043	5.766196005870622e-05	regulation of organelle organization
+GO:0001934	6.035100995872534e-05	positive regulation of protein phosphorylation
+GO:0045580	6.076517026683023e-05	regulation of T cell differentiation
+GO:0007166	6.27701346310973e-05	cell surface receptor signaling pathway
+GO:1903708	6.580213485035857e-05	positive regulation of hemopoiesis
+GO:1902107	6.580213485035857e-05	positive regulation of leukocyte differentiation
+GO:0001818	6.640526778122063e-05	negative regulation of cytokine production
+GO:1901652	6.64814741139844e-05	response to peptide
+GO:0045859	7.60058320211401e-05	regulation of protein kinase activity
+GO:0071495	7.60058320211401e-05	cellular response to endogenous stimulus
+GO:0003148	7.612543835336402e-05	outflow tract septum morphogenesis
+GO:1902893	7.612543835336402e-05	regulation of miRNA transcription
+GO:0009725	7.882143498911371e-05	response to hormone
+GO:0045321	8.582202194372576e-05	leukocyte activation
+GO:0032496	8.742520478832411e-05	response to lipopolysaccharide
+GO:1903829	9.227476977132451e-05	positive regulation of protein localization
+GO:0008150	9.691246368270864e-05	biological_process
+GO:0043085	0.00010105060539521402	positive regulation of catalytic activity
+GO:0043408	0.00010147104083714964	regulation of MAPK cascade
+GO:0009314	0.00010228832953105908	response to radiation
+GO:0009410	0.00010407161096598816	response to xenobiotic stimulus
+GO:0042327	0.00010407161096598816	positive regulation of phosphorylation
+GO:0043409	0.00010712404744675333	negative regulation of MAPK cascade
+GO:0070848	0.00010918548389043624	response to growth factor
+GO:2001236	0.00011782795787571426	regulation of extrinsic apoptotic signaling pathway
+GO:0045860	0.00012254015651382835	positive regulation of protein kinase activity
+GO:0051347	0.00012298843036707215	positive regulation of transferase activity
+GO:0048729	0.0001258614433841006	tissue morphogenesis
+GO:0003215	0.0001258614433841006	cardiac right ventricle morphogenesis
+GO:0051000	0.0001258614433841006	positive regulation of nitric-oxide synthase activity
+GO:0051090	0.00012881713099457178	regulation of DNA-binding transcription factor activity
+GO:0032880	0.0001375015354212945	regulation of protein localization
+GO:0002694	0.0001375015354212945	regulation of leukocyte activation
+GO:0050776	0.0001375015354212945	regulation of immune response
+GO:0055021	0.00014358459682384665	regulation of cardiac muscle tissue growth
+GO:0045165	0.00014442745681673099	cell fate commitment
+GO:0040012	0.0001470685925346953	regulation of locomotion
+GO:0043549	0.00015238252055490198	regulation of kinase activity
+GO:0043524	0.00015742652369091735	negative regulation of neuron apoptotic process
+GO:1904951	0.00016519952794981737	positive regulation of establishment of protein localization
+GO:2000628	0.0001653212304564929	regulation of miRNA metabolic process
+GO:0045787	0.00016897243122747035	positive regulation of cell cycle
+GO:1902895	0.00017209157317509504	positive regulation of miRNA transcription
+GO:0008219	0.000192031714826738	cell death
+GO:0033674	0.00019379220965328635	positive regulation of kinase activity
+GO:0071363	0.00019382584730172003	cellular response to growth factor stimulus
+GO:0060341	0.00019382584730172003	regulation of cellular localization
+GO:0022414	0.0002006518224673386	reproductive process
+GO:0010038	0.00021023437120113776	response to metal ion
+GO:0002376	0.00023138195871726683	immune system process
+GO:0044092	0.00023923890011216375	negative regulation of molecular function
+GO:0048514	0.0002459246992713675	blood vessel morphogenesis
+GO:0060420	0.00024680311298543023	regulation of heart growth
+GO:0071345	0.00024680311298543023	cellular response to cytokine stimulus
+GO:0010464	0.0002472177985093754	regulation of mesenchymal cell proliferation
+GO:0051353	0.0002472177985093754	positive regulation of oxidoreductase activity
+GO:0071840	0.0002531881621597925	cellular component organization or biogenesis
+GO:0043068	0.0002657515397484088	positive regulation of programmed cell death
+GO:0032651	0.0002753779466342001	regulation of interleukin-1 beta production
+GO:0051592	0.00028924829128970235	response to calcium ion
+GO:0046632	0.00028924829128970235	alpha-beta T cell differentiation
+GO:2000630	0.00028924829128970235	positive regulation of miRNA metabolic process
+GO:2001237	0.0003114363992264833	negative regulation of extrinsic apoptotic signaling pathway
+GO:0006915	0.00032689999932946116	apoptotic process
+GO:0046631	0.000329481228077669	alpha-beta T cell activation
+GO:0009607	0.00033612473916884916	response to biotic stimulus
+GO:0016043	0.00033656901144525175	cellular component organization
+GO:0030098	0.0003377573164385105	lymphocyte differentiation
+GO:0048844	0.0003377573164385105	artery morphogenesis
+GO:0002076	0.00034127738082036186	osteoblast development
+GO:0030334	0.00034791951075147597	regulation of cell migration
+GO:0050678	0.0003724991269644072	regulation of epithelial cell proliferation
+GO:0045785	0.0003724991269644072	positive regulation of cell adhesion
+GO:0050865	0.000387911319025897	regulation of cell activation
+GO:0032663	0.00039384716902102955	regulation of interleukin-2 production
+GO:0033135	0.00039384716902102955	regulation of peptidyl-serine phosphorylation
+GO:0045664	0.00040098078625248093	regulation of neuron differentiation
+GO:0031400	0.000427721194675996	negative regulation of protein modification process
+GO:0031347	0.00042873574115346057	regulation of defense response
+GO:0001775	0.0004348304475312159	cell activation
+GO:0010595	0.0005182819217122244	positive regulation of endothelial cell migration
+GO:0061138	0.0005182819217122244	morphogenesis of a branching epithelium
+GO:0045655	0.000518917696181633	regulation of monocyte differentiation
+GO:0050999	0.000518917696181633	regulation of nitric-oxide synthase activity
+GO:0141124	0.0005292157501089568	intracellular signaling cassette
+GO:0001822	0.0005363149823161168	kidney development
+GO:0051222	0.0005532506189198143	positive regulation of protein transport
+GO:0048732	0.0005532506189198143	gland development
+GO:0035295	0.0005545522919178662	tube development
+GO:0009605	0.000564894274660197	response to external stimulus
+GO:0060411	0.0005685280107534518	cardiac septum morphogenesis
+GO:0051249	0.0005685280107534518	regulation of lymphocyte activation
+GO:0045637	0.0005689129782242634	regulation of myeloid cell differentiation
+GO:0043207	0.0005730522889654206	response to external biotic stimulus
+GO:0012501	0.0005730522889654206	programmed cell death
+GO:2001233	0.000573859531934884	regulation of apoptotic signaling pathway
+GO:0009888	0.0005741622547462271	tissue development
+GO:0009416	0.0005887603473264727	response to light stimulus
+GO:0007420	0.0006030183871212139	brain development
+GO:1903037	0.0006104196935213924	regulation of leukocyte cell-cell adhesion
+GO:0006325	0.0006434174692054386	chromatin organization
+GO:0060463	0.0007207887283198823	lung lobe morphogenesis
+GO:0032652	0.0007260826683434911	regulation of interleukin-1 production
+GO:0035051	0.0007491283657664248	cardiocyte differentiation
+GO:0050863	0.0007556794034238107	regulation of T cell activation
+GO:0043065	0.0007591865354131716	positive regulation of apoptotic process
+GO:2000145	0.0007744314115667075	regulation of cell motility
+GO:0046649	0.0007812818613756764	lymphocyte activation
+GO:0070201	0.0007838686616517453	regulation of establishment of protein localization
+GO:0001763	0.0007846979325555707	morphogenesis of a branching structure
+GO:0010639	0.0008337288990757625	negative regulation of organelle organization
+GO:0030182	0.0008337288990757625	neuron differentiation
+GO:0071277	0.0008348493127960521	cellular response to calcium ion
+GO:0051050	0.0008483104860746942	positive regulation of transport
+GO:0055010	0.00099967220291768	ventricular cardiac muscle tissue morphogenesis
+GO:0032770	0.0010256947601453145	positive regulation of monooxygenase activity
+GO:0001837	0.0010274165009350837	epithelial to mesenchymal transition
+GO:0045582	0.0010757642971415406	positive regulation of T cell differentiation
+GO:0003149	0.0010757642971415406	membranous septum morphogenesis
+GO:0033138	0.001088175935009327	positive regulation of peptidyl-serine phosphorylation
+GO:0008285	0.0010953923929571173	negative regulation of cell population proliferation
+GO:0010594	0.0011152323976495978	regulation of endothelial cell migration
+GO:0072132	0.0011926930650845446	mesenchyme morphogenesis
+GO:0045913	0.0012370107435121093	positive regulation of carbohydrate metabolic process
+GO:0000902	0.001254453144951324	cell morphogenesis
+GO:0048754	0.0013602979478522532	branching morphogenesis of an epithelial tube
+GO:2001234	0.0013686410278064601	negative regulation of apoptotic signaling pathway
+GO:0048661	0.0013999430409954937	positive regulation of smooth muscle cell proliferation
+GO:0051248	0.001463480775058113	negative regulation of protein metabolic process
+GO:0007162	0.0014912901054658183	negative regulation of cell adhesion
+GO:0048646	0.0015122041961890499	anatomical structure formation involved in morphogenesis
+GO:0071248	0.001567910156205744	cellular response to metal ion
+GO:1901699	0.001567910156205744	cellular response to nitrogen compound
+GO:0032101	0.0015878251035236692	regulation of response to external stimulus
+GO:0009790	0.0016328813973921297	embryo development
+GO:0009792	0.0016328813973921297	embryo development ending in birth or egg hatching
+GO:0036293	0.0016349882720903296	response to decreased oxygen levels
+GO:0045765	0.0016349882720903296	regulation of angiogenesis
+GO:0048145	0.0016490040074879115	regulation of fibroblast proliferation
+GO:0048589	0.0018270423210257959	developmental growth
+GO:0040007	0.0018270423210257959	growth
+GO:0002053	0.0018270423210257959	positive regulation of mesenchymal cell proliferation
+GO:0007165	0.0018583183537622995	signal transduction
+GO:1903320	0.001881071817055143	regulation of protein modification by small protein conjugation or removal
+GO:1901342	0.0019008400255403066	regulation of vasculature development
+GO:0051591	0.0019477950456275814	response to cAMP
+GO:0022603	0.001953740026019109	regulation of anatomical structure morphogenesis
+GO:0045088	0.0019553490662152805	regulation of innate immune response
+GO:0051223	0.0019553490662152805	regulation of protein transport
+GO:0046683	0.0019659248777113263	response to organophosphorus
+GO:0002009	0.0019693569833209054	morphogenesis of an epithelium
+GO:0045666	0.0020357021410123506	positive regulation of neuron differentiation
+GO:0045621	0.0020394419820701478	positive regulation of lymphocyte differentiation
+GO:1901873	0.0021340562635410506	regulation of post-translational protein modification
+GO:0032147	0.002249872587383479	activation of protein kinase activity
+GO:0051341	0.002249872587383479	regulation of oxidoreductase activity
+GO:0060485	0.002249872587383479	mesenchyme development
+GO:0051130	0.0023025070286867965	positive regulation of cellular component organization
+GO:0032703	0.002306170385823207	negative regulation of interleukin-2 production
+GO:0071396	0.002397641873162199	cellular response to lipid
+GO:0055008	0.0024140908954016446	cardiac muscle tissue morphogenesis
+GO:0051091	0.0025281461488902155	positive regulation of DNA-binding transcription factor activity
+GO:0048568	0.0025868483324307323	embryonic organ development
+GO:0062207	0.0025868483324307323	regulation of pattern recognition receptor signaling pathway
+GO:0051129	0.0027118841206817718	negative regulation of cellular component organization
+GO:0009615	0.0027183812496519365	response to virus
+GO:0042692	0.0027473922054472326	muscle cell differentiation
+GO:0010812	0.0027590062640763836	negative regulation of cell-substrate adhesion
+GO:0032731	0.0027590062640763836	positive regulation of interleukin-1 beta production
+GO:0002831	0.0027590062640763836	regulation of response to biotic stimulus
+GO:0002573	0.002882039140626491	myeloid leukocyte differentiation
+GO:2000352	0.002890698690758941	negative regulation of endothelial cell apoptotic process
+GO:0070482	0.002971198048114673	response to oxygen levels
+GO:0006338	0.002975101550227543	chromatin remodeling
+GO:1900180	0.0029778834032279694	regulation of protein localization to nucleus
+GO:0043255	0.002994549614589132	regulation of carbohydrate biosynthetic process
+GO:0050679	0.002994549614589132	positive regulation of epithelial cell proliferation
+GO:0006950	0.003016295766413325	response to stress
+GO:0030855	0.0030877996766074988	epithelial cell differentiation
+GO:0002763	0.003140176452513556	positive regulation of myeloid leukocyte differentiation
+GO:0050714	0.0033336770660678983	positive regulation of protein secretion
+GO:0051146	0.0033677921313456007	striated muscle cell differentiation
+GO:0071872	0.0033677921313456007	cellular response to epinephrine stimulus
+GO:0014074	0.003450142295157365	response to purine-containing compound
+GO:0042476	0.00345939498465344	odontogenesis
+GO:0032655	0.003583973933902259	regulation of interleukin-12 production
+GO:0032774	0.0038560973019076575	RNA biosynthetic process
+GO:0010001	0.004008417008759745	glial cell differentiation
+GO:1903317	0.004113683896288946	regulation of protein maturation
+GO:0009411	0.004133911015468254	response to UV
+GO:0051348	0.004133911015468254	negative regulation of transferase activity
+GO:0048731	0.004193362188377974	system development
+GO:0033554	0.004585317915935986	cellular response to stress
+GO:0007275	0.004592589651540034	multicellular organism development
+GO:1903828	0.00470399644401093	negative regulation of protein localization
+GO:0060415	0.004988206803379122	muscle tissue morphogenesis
+GO:0007346	0.005120300335618416	regulation of mitotic cell cycle
+GO:0010002	0.0052248039996048035	cardioblast differentiation
+GO:1900025	0.0052248039996048035	negative regulation of substrate adhesion-dependent cell spreading
+GO:0001666	0.005306723487897829	response to hypoxia
+GO:0048598	0.0053268108239961	embryonic morphogenesis
+GO:0002293	0.0053268108239961	alpha-beta T cell differentiation involved in immune response
+GO:0060412	0.0053268108239961	ventricular septum morphogenesis
+GO:1904707	0.0053268108239961	positive regulation of vascular associated smooth muscle cell proliferation
+GO:0002287	0.0053268108239961	alpha-beta T cell activation involved in immune response
+GO:1903039	0.0053708132880802145	positive regulation of leukocyte cell-cell adhesion
+GO:0043086	0.0055038724029782835	negative regulation of catalytic activity
+GO:0010638	0.0055707347515918755	positive regulation of organelle organization
+GO:0032879	0.0055707347515918755	regulation of localization
+GO:0060043	0.00585031049240796	regulation of cardiac muscle cell proliferation
+GO:0022407	0.005852061508431298	regulation of cell-cell adhesion
+GO:0032732	0.005858252425854541	positive regulation of interleukin-1 production
+GO:0045786	0.006088215489135299	negative regulation of cell cycle
+GO:1902106	0.006126851970853916	negative regulation of leukocyte differentiation
+GO:0045766	0.006162819383652098	positive regulation of angiogenesis
+GO:0060413	0.006200743777788362	atrial septum morphogenesis
+GO:0071871	0.006200743777788362	response to epinephrine
+GO:1902256	0.006623023252966558	regulation of apoptotic process involved in outflow tract morphogenesis
+GO:0060523	0.006623023252966558	prostate epithelial cord elongation
+GO:0060737	0.006623023252966558	prostate gland morphogenetic growth
+GO:0014040	0.006623023252966558	positive regulation of Schwann cell differentiation
+GO:0032680	0.006753038496167145	regulation of tumor necrosis factor production
+GO:1904018	0.006753038496167145	positive regulation of vasculature development
+GO:0019827	0.007167274906330398	stem cell population maintenance
+GO:0032355	0.007167274906330398	response to estradiol
+GO:0003006	0.007167274906330398	developmental process involved in reproduction
+GO:0048485	0.007398144473827176	sympathetic nervous system development
+GO:0032649	0.007437280423460666	regulation of type II interferon production
+GO:1903707	0.007437280423460666	negative regulation of hemopoiesis
+GO:0002696	0.00748057060355464	positive regulation of leukocyte activation
+GO:0002292	0.00748057060355464	T cell differentiation involved in immune response
+GO:0032729	0.007646189150245072	positive regulation of type II interferon production
+GO:1903555	0.007874745275516263	regulation of tumor necrosis factor superfamily cytokine production
+GO:1901698	0.007933114056408811	response to nitrogen compound
+GO:0098727	0.008366906115953886	maintenance of cell number
+GO:0006109	0.00866499579282041	regulation of carbohydrate metabolic process
+GO:0032717	0.008714432046613048	negative regulation of interleukin-8 production
+GO:0010828	0.008818231625303834	positive regulation of D-glucose transmembrane transport
+GO:0032570	0.008818231625303834	response to progesterone
+GO:0035148	0.009402189757970802	tube formation
+GO:0033002	0.009542209764809184	muscle cell proliferation
+GO:0031111	0.009542209764809184	negative regulation of microtubule polymerization or depolymerization
+GO:0032735	0.009542209764809184	positive regulation of interleukin-12 production
+GO:0030099	0.009873217082407718	myeloid cell differentiation
+GO:0072091	0.009873217082407718	regulation of stem cell proliferation
+GO:0022404	0.009873217082407718	molting cycle process
+GO:0022405	0.009873217082407718	hair cycle process
+GO:0043367	0.010304053798231837	CD4-positive, alpha-beta T cell differentiation
+GO:0048638	0.01051887141021791	regulation of developmental growth
+GO:0050867	0.010693445489923289	positive regulation of cell activation
+GO:0045638	0.011530285727377939	negative regulation of myeloid cell differentiation
+GO:0032677	0.011530285727377939	regulation of interleukin-8 production
+GO:0006351	0.011707560044510332	DNA-templated transcription
+GO:0060065	0.011707560044510332	uterus development
+GO:0009713	0.011707560044510332	catechol-containing compound biosynthetic process
+GO:0042423	0.011707560044510332	catecholamine biosynthetic process
+GO:0051784	0.011853161244113045	negative regulation of nuclear division
+GO:0035910	0.011853161244113045	ascending aorta morphogenesis
+GO:0014038	0.011853161244113045	regulation of Schwann cell differentiation
+GO:1905005	0.011853161244113045	regulation of epithelial to mesenchymal transition involved in endocardial cushion formation
+GO:1905007	0.011853161244113045	positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation
+GO:0038124	0.011853161244113045	toll-like receptor TLR6:TLR2 signaling pathway
+GO:0010563	0.013048948727525067	negative regulation of phosphorus metabolic process
+GO:0045936	0.013048948727525067	negative regulation of phosphate metabolic process
+GO:0050727	0.013170778883268222	regulation of inflammatory response
+GO:0003203	0.01335707663845934	endocardial cushion morphogenesis
+GO:0033628	0.013682683360596314	regulation of cell adhesion mediated by integrin
+GO:0051049	0.013682683360596314	regulation of transport
+GO:1903321	0.013714424525052352	negative regulation of protein modification by small protein conjugation or removal
+GO:0097305	0.013877406003369487	response to alcohol
+GO:0050870	0.013877406003369487	positive regulation of T cell activation
+GO:1901990	0.014371500505263814	regulation of mitotic cell cycle phase transition
+GO:0090068	0.014553295434945412	positive regulation of cell cycle process
+GO:0001933	0.014594632232693234	negative regulation of protein phosphorylation
+GO:0031396	0.014594632232693234	regulation of protein ubiquitination
+GO:0090090	0.014594632232693234	negative regulation of canonical Wnt signaling pathway
+GO:0141187	0.014776948905093188	nucleic acid biosynthetic process
+GO:0060828	0.014776948905093188	regulation of canonical Wnt signaling pathway
+GO:0040013	0.014806660283945528	negative regulation of locomotion
+GO:0051147	0.01493562092335154	regulation of muscle cell differentiation
+GO:0032495	0.01493562092335154	response to muramyl dipeptide
+GO:0007548	0.01493562092335154	sex differentiation
+GO:0030520	0.01493562092335154	estrogen receptor signaling pathway
+GO:0010224	0.01493562092335154	response to UV-B
+GO:0051251	0.015559510487532851	positive regulation of lymphocyte activation
+GO:0030111	0.015559510487532851	regulation of Wnt signaling pathway
+GO:0022409	0.015559510487532851	positive regulation of cell-cell adhesion
+GO:0050708	0.01562502719496664	regulation of protein secretion
+GO:1901874	0.016101255695408895	negative regulation of post-translational protein modification
+GO:0034502	0.016101255695408895	protein localization to chromosome
+GO:0010948	0.0167112727434688	negative regulation of cell cycle process
+GO:1900182	0.016730364116142264	positive regulation of protein localization to nucleus
+GO:0010507	0.016730364116142264	negative regulation of autophagy
+GO:0061117	0.016730364116142264	negative regulation of heart growth
+GO:0055022	0.016730364116142264	negative regulation of cardiac muscle tissue growth
+GO:0022612	0.016730364116142264	gland morphogenesis
+GO:0003181	0.016730364116142264	atrioventricular valve morphogenesis
+GO:0048146	0.01728800491569703	positive regulation of fibroblast proliferation
+GO:0016925	0.01728800491569703	protein sumoylation
+GO:0007498	0.01728800491569703	mesoderm development
+GO:0048511	0.017643562160110985	rhythmic process
+GO:0043374	0.01793138865820603	CD8-positive, alpha-beta T cell differentiation
+GO:0003289	0.01793138865820603	atrial septum primum morphogenesis
+GO:0003274	0.01793138865820603	endocardial cushion fusion
+GO:0072081	0.01793138865820603	specification of nephron tubule identity
+GO:0034764	0.018453603064085142	positive regulation of transmembrane transport
+GO:0010721	0.018762047858045087	negative regulation of cell development
+GO:0071900	0.0189196367796498	regulation of protein serine/threonine kinase activity
+GO:0090092	0.01910952511069859	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0006366	0.01910952511069859	transcription by RNA polymerase II
+GO:0060429	0.01935685156323526	epithelium development
+GO:0002762	0.01939778254185558	negative regulation of myeloid leukocyte differentiation
+GO:2000351	0.01939778254185558	regulation of endothelial cell apoptotic process
+GO:0062013	0.019465380711748914	positive regulation of small molecule metabolic process
+GO:0001701	0.019721048184292093	in utero embryonic development
+GO:0009987	0.019721048184292093	cellular process
+GO:0032755	0.020284084789447352	positive regulation of interleukin-6 production
+GO:0003179	0.020582644853896142	heart valve morphogenesis
+GO:0070372	0.0206280817135685	regulation of ERK1 and ERK2 cascade
+GO:0021983	0.020783515165497094	pituitary gland development
+GO:0031110	0.02099948984894567	regulation of microtubule polymerization or depolymerization
+GO:0008593	0.02099948984894567	regulation of Notch signaling pathway
+GO:0043009	0.021061757755168876	chordate embryonic development
+GO:0042326	0.021061757755168876	negative regulation of phosphorylation
+GO:0032675	0.02112979654541662	regulation of interleukin-6 production
+GO:0051607	0.02232129446645261	defense response to virus
+GO:0090304	0.02266638821676885	nucleic acid metabolic process
+GO:0014032	0.023034907299389135	neural crest cell development
+GO:0060038	0.023034907299389135	cardiac muscle cell proliferation
+GO:0040008	0.023034907299389135	regulation of growth
+GO:0045639	0.02363637613184606	positive regulation of myeloid cell differentiation
+GO:1901991	0.023897475054857065	negative regulation of mitotic cell cycle phase transition
+GO:0030518	0.02433110499292543	nuclear receptor-mediated steroid hormone signaling pathway
+GO:0009895	0.024731959059621535	negative regulation of catabolic process
+GO:0016070	0.0247358861636701	RNA metabolic process
+GO:1901988	0.024785175690060352	negative regulation of cell cycle phase transition
+GO:0060527	0.024785175690060352	prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
+GO:0061343	0.024785175690060352	cell adhesion involved in heart morphogenesis
+GO:0014051	0.024785175690060352	gamma-aminobutyric acid secretion
+GO:1901256	0.024785175690060352	regulation of macrophage colony-stimulating factor production
+GO:0072143	0.024785175690060352	mesangial cell development
+GO:1900227	0.025196334481784096	positive regulation of NLRP3 inflammasome complex assembly
+GO:0035710	0.025282495113664056	CD4-positive, alpha-beta T cell activation
+GO:1904705	0.025282495113664056	regulation of vascular associated smooth muscle cell proliferation
+GO:0099643	0.025282495113664056	signal release from synapse
+GO:0043122	0.025614793029556143	regulation of canonical NF-kappaB signal transduction
+GO:0048545	0.025614793029556143	response to steroid hormone
+GO:0010717	0.025878594890014185	regulation of epithelial to mesenchymal transition
+GO:0043393	0.025878594890014185	regulation of protein binding
+GO:0051493	0.026407731512500966	regulation of cytoskeleton organization
+GO:0034762	0.02678525859062444	regulation of transmembrane transport
+GO:0016477	0.026835927244281747	cell migration
+GO:0007167	0.026867863771014414	enzyme-linked receptor protein signaling pathway
+GO:1900024	0.028124982682006115	regulation of substrate adhesion-dependent cell spreading
+GO:1903532	0.0288419128333595	positive regulation of secretion by cell
+GO:0001501	0.03037887931746102	skeletal system development
+GO:0043410	0.03037887931746102	positive regulation of MAPK cascade
+GO:0008347	0.03050432476401619	glial cell migration
+GO:0048705	0.03132844400165613	skeletal system morphogenesis
+GO:0071902	0.032565242567255445	positive regulation of protein serine/threonine kinase activity
+GO:0048382	0.0329336285646609	mesendoderm development
+GO:0021796	0.0329336285646609	cerebral cortex regionalization
+GO:0032201	0.0329336285646609	telomere maintenance via semi-conservative replication
+GO:0032730	0.0329336285646609	positive regulation of interleukin-1 alpha production
+GO:1990414	0.0329336285646609	replication-born double-strand break repair via sister chromatid exchange
+GO:0060633	0.0329336285646609	negative regulation of transcription initiation by RNA polymerase II
+GO:0010614	0.033218641733253	negative regulation of cardiac muscle hypertrophy
+GO:2000108	0.033218641733253	positive regulation of leukocyte apoptotic process
+GO:0090277	0.03331194552250118	positive regulation of peptide hormone secretion
+GO:0044057	0.03352116147247462	regulation of system process
+GO:0030178	0.03445799682037791	negative regulation of Wnt signaling pathway
+GO:0002793	0.035800393093813915	positive regulation of peptide secretion
+GO:0009059	0.03602819271460742	macromolecule biosynthetic process
+GO:0021766	0.036110148285799455	hippocampus development
+GO:0048701	0.036110148285799455	embryonic cranial skeleton morphogenesis
+GO:0021915	0.036110148285799455	neural tube development
+GO:0010564	0.03732551907559226	regulation of cell cycle process
+GO:0044087	0.03788888305997753	regulation of cellular component biogenesis
+GO:0070373	0.03788888305997753	negative regulation of ERK1 and ERK2 cascade
+GO:0043170	0.03802036559837504	macromolecule metabolic process
+GO:1902903	0.03815339014519896	regulation of supramolecular fiber organization
+GO:2000146	0.038389559180469865	negative regulation of cell motility
+GO:1902932	0.03899428920681298	positive regulation of alcohol biosynthetic process
+GO:0007026	0.03899428920681298	negative regulation of microtubule depolymerization
+GO:0046621	0.03899428920681298	negative regulation of organ growth
+GO:0014741	0.03899428920681298	negative regulation of muscle hypertrophy
+GO:0021879	0.03899428920681298	forebrain neuron differentiation
+GO:0033044	0.039246773772782885	regulation of chromosome organization
+GO:0001570	0.0393549642952374	vasculogenesis
+GO:0045471	0.04034540284760229	response to ethanol
+GO:0050854	0.04129015719869258	regulation of antigen receptor-mediated signaling pathway
+GO:0043491	0.04129015719869258	phosphatidylinositol 3-kinase/protein kinase B signal transduction
+GO:2000143	0.04129015719869258	negative regulation of DNA-templated transcription initiation
+GO:2000020	0.04129015719869258	positive regulation of male gonad development
+GO:0061004	0.04129015719869258	pattern specification involved in kidney development
+GO:0032870	0.041381660607490794	cellular response to hormone stimulus
+GO:1903530	0.04191668716432348	regulation of secretion by cell
+GO:0048864	0.04191668716432348	stem cell development
+GO:0048871	0.042060384476091575	multicellular organismal-level homeostasis
+GO:0007088	0.04261414347071172	regulation of mitotic nuclear division
+GO:0051336	0.04350276909058926	regulation of hydrolase activity
+GO:0051047	0.04350276909058926	positive regulation of secretion
+GO:0030522	0.04350276909058926	intracellular receptor signaling pathway
+GO:0046634	0.0439201231349724	regulation of alpha-beta T cell activation
+GO:0043502	0.04479533484925467	regulation of muscle adaptation
+GO:0033046	0.045009288480868416	negative regulation of sister chromatid segregation
+GO:0001656	0.045009288480868416	metanephros development
+GO:0045841	0.045009288480868416	negative regulation of mitotic metaphase/anaphase transition
+GO:2000816	0.045009288480868416	negative regulation of mitotic sister chromatid separation
+GO:0033048	0.045009288480868416	negative regulation of mitotic sister chromatid segregation
+GO:0050778	0.0455985620955633	positive regulation of immune response
+GO:0045665	0.04649507464364533	negative regulation of neuron differentiation
+GO:0051495	0.04649507464364533	positive regulation of cytoskeleton organization
+GO:0051897	0.04649507464364533	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+GO:0104004	0.04694410972389989	cellular response to environmental stimulus
+GO:0071214	0.04694410972389989	cellular response to abiotic stimulus
+GO:0045444	0.0479203848270692	fat cell differentiation
+GO:0031069	0.048353217353395504	hair follicle morphogenesis
+GO:0048147	0.048353217353395504	negative regulation of fibroblast proliferation
+GO:0016079	0.048353217353395504	synaptic vesicle exocytosis
+GO:0010827	0.048353217353395504	regulation of D-glucose transmembrane transport
+GO:0006469	0.049099514541632944	negative regulation of protein kinase activity
+GO:0002064	0.049099514541632944	epithelial cell development
+GO:0001568	0.049099514541632944	blood vessel development
+GO:0032650	0.049652056874329546	regulation of interleukin-1 alpha production
+GO:0036037	0.049652056874329546	CD8-positive, alpha-beta T cell activation
+GO:0071225	0.049652056874329546	cellular response to muramyl dipeptide
+GO:0051589	0.049652056874329546	negative regulation of neurotransmitter transport
+GO:0042416	0.049652056874329546	dopamine biosynthetic process
+GO:0072178	0.049652056874329546	nephric duct morphogenesis
+GO:1905941	0.049652056874329546	positive regulation of gonad development
+GO:0062043	0.049652056874329546	positive regulation of cardiac epithelial to mesenchymal transition
+GO:2000018	0.049652056874329546	regulation of male gonad development
+GO:0034103	0.049652056874329546	regulation of tissue remodeling
+GO:0043401	0.049652056874329546	steroid hormone receptor signaling pathway
+GO:0032479	0.04975899553097186	regulation of type I interferon production
+GO:0008406	0.04975899553097186	gonad development
+GO:0000785	3.5363607167546155e-24	chromatin
+GO:0005634	3.949094129403076e-21	nucleus
+GO:0005654	1.8160111372932713e-18	nucleoplasm
+GO:0043227	4.039714036812194e-12	membrane-bounded organelle
+GO:0043231	5.564789260979465e-12	intracellular membrane-bounded organelle
+GO:0043226	5.6504941925726414e-11	organelle
+GO:0043229	6.193331645230418e-10	intracellular organelle
+GO:0005667	3.20206482159866e-08	transcription regulator complex
+GO:0005737	5.218104252466626e-05	cytoplasm
+GO:0005829	0.00021910037080692476	cytosol
+GO:0043232	0.0006104196935213924	intracellular membraneless organelle
+GO:0043228	0.0006107408647537432	membraneless organelle
+GO:0090575	0.0027118841206817718	RNA polymerase II transcription regulator complex
+GO:0005730	0.0034760877208057338	nucleolus
+GO:0140513	0.00470399644401093	nuclear protein-containing complex
+GO:0016604	0.016303203746057104	nuclear body
+GO:0032991	0.01939778254185558	protein-containing complex
+GO:0035976	0.024785175690060352	transcription factor AP-1 complex
+GO:0110165	0.03445799682037791	cellular anatomical structure
+GO:0140110	2.691021609459884e-23	transcription regulator activity
+GO:0003677	4.283620204477975e-21	DNA binding
+GO:0043565	2.7438947477042575e-16	sequence-specific DNA binding
+GO:0000977	3.826638039953611e-16	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0000976	7.857438810969225e-16	transcription cis-regulatory region binding
+GO:0001067	7.907548596155783e-16	transcription regulatory region nucleic acid binding
+GO:0003676	2.229292100568436e-15	nucleic acid binding
+GO:1990837	4.240014929127633e-15	sequence-specific double-stranded DNA binding
+GO:0000981	1.0720229724516759e-14	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0003700	1.4140702536614007e-14	DNA-binding transcription factor activity
+GO:0003690	3.530873183053889e-14	double-stranded DNA binding
+GO:0000978	6.208270176596402e-13	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0000987	1.1449307677465644e-12	cis-regulatory region sequence-specific DNA binding
+GO:0001228	1.8152265539861298e-10	DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0001216	2.3905917707644445e-10	DNA-binding transcription activator activity
+GO:0042802	9.112440101545143e-10	identical protein binding
+GO:0003682	2.3416399237461e-09	chromatin binding
+GO:0008134	3.049803140476814e-07	transcription factor binding
+GO:0140297	5.297857892240194e-07	DNA-binding transcription factor binding
+GO:0003712	3.8085931296988448e-06	transcription coregulator activity
+GO:0005515	4.92963716208889e-06	protein binding
+GO:0061629	1.0753758835955664e-05	RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0046983	1.878313370067272e-05	protein dimerization activity
+GO:0060090	1.9248207739732845e-05	molecular adaptor activity
+GO:0008270	1.9790357007091206e-05	zinc ion binding
+GO:0005488	4.477281053135999e-05	binding
+GO:0003713	0.00010423038774956539	transcription coactivator activity
+GO:0046914	0.00032689999932946116	transition metal ion binding
+GO:0042803	0.0004431216574817446	protein homodimerization activity
+GO:0001227	0.0008088631971860146	DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0001217	0.0010757642971415406	DNA-binding transcription repressor activity
+GO:0043169	0.0019179715957904657	cation binding
+GO:0019789	0.0020394419820701478	SUMO transferase activity
+GO:0030674	0.002280153456320998	protein-macromolecule adaptor activity
+GO:0046872	0.0024184646143602996	metal ion binding
+GO:0001161	0.0026817905326042423	intronic transcription regulatory region sequence-specific DNA binding
+GO:0071889	0.0035733666249448365	14-3-3 protein binding
+GO:0003674	0.004018315864472523	molecular_function
+GO:0061665	0.0052248039996048035	SUMO ligase activity
+GO:0001221	0.0058695893787548145	transcription coregulator binding
+GO:0030331	0.0069142309820466085	nuclear estrogen receptor binding
+GO:0031490	0.008366906115953886	chromatin DNA binding
+GO:0004712	0.008818231625303834	protein serine/threonine/tyrosine kinase activity
+GO:0001223	0.009542209764809184	transcription coactivator binding
+GO:0019899	0.010883066991726515	enzyme binding
+GO:0034714	0.011853161244113045	type III transforming growth factor beta receptor binding
+GO:0016922	0.01329576823396844	nuclear receptor binding
+GO:0043167	0.02099948984894567	ion binding
+GO:0070888	0.02433110499292543	E-box binding
+GO:0030235	0.024785175690060352	nitric-oxide synthase regulator activity
+GO:0140096	0.025614793029556143	catalytic activity, acting on a protein
+GO:0008330	0.0329336285646609	protein tyrosine/threonine phosphatase activity
+GO:0019904	0.03602819271460742	protein domain specific binding
+GO:1990841	0.03788888305997753	promoter-specific chromatin binding
+GO:0036094	0.04129015719869258	small molecule binding
+GO:0070016	0.04129015719869258	armadillo repeat domain binding
+GO:0099103	0.049652056874329546	channel activator activity

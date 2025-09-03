@@ -1,0 +1,26 @@
+GO_Slim_ID,GO_Slim_Name,Frequency
+GO:0048856,anatomical structure development,53
+GO:0030154,cell differentiation,20
+GO:0002376,immune system process,15
+GO:0006355,regulation of DNA-templated transcription,8
+GO:0003013,circulatory system process,6
+GO:0048870,cell motility,5
+GO:0043226,organelle,5
+GO:0005975,carbohydrate metabolic process,5
+GO:0022414,reproductive process,5
+GO:0098772,molecular function regulator activity,5
+GO:0012501,programmed cell death,5
+GO:0007155,cell adhesion,4
+GO:0023052,signaling,2
+GO:0016192,vesicle-mediated transport,2
+GO:0042060,wound healing,1
+GO:0055085,transmembrane transport,1
+GO:0006954,inflammatory response,1
+GO:0030163,protein catabolic process,1
+GO:0098542,defense response to other organism,1
+GO:0006351,DNA-templated transcription,1
+GO:0003012,muscle system process,1
+GO:0031410,cytoplasmic vesicle,1
+GO:0005829,cytosol,1
+GO:0006914,autophagy,1
+GO:0006913,nucleocytoplasmic transport,1

@@ -1,0 +1,55 @@
+GO term	Novel Rank	Binomial Rank	Hypergeometric Rank
+GO:0002009	292	35	48	morphogenesis of an epithelium
+GO:0043066	91	34	52	negative regulation of apoptotic process
+GO:0003208	106	145	27	cardiac ventricle morphogenesis
+GO:0001701	456	41	18	in utero embryonic development
+GO:0001763	251	183	40	morphogenesis of a branching structure
+GO:0000977	601	18	10	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0000122	37	23	6	negative regulation of transcription by RNA polymerase II
+GO:0045444	558	47	36	fat cell differentiation
+GO:1990837	605	8	7	sequence-specific double-stranded DNA binding
+GO:0002793	513	174	79	positive regulation of peptide secretion
+GO:2001233	237	77	61	regulation of apoptotic signaling pathway
+GO:0033993	88	32	93	response to lipid
+GO:0006366	451	4	5	transcription by RNA polymerase II
+GO:0008270	622	2	8	zinc ion binding
+GO:0009790	276	102	35	embryo development
+GO:0042476	326	141	12	odontogenesis
+GO:0003006	367	5	7	developmental process involved in reproduction
+GO:0048729	169	48	31	tissue morphogenesis
+GO:0035295	230	94	11	tube development
+GO:0043009	464	109	14	chordate embryonic development
+GO:0009792	277	112	17	embryo development ending in birth or egg hatching
+GO:0007498	441	1	76	mesoderm development
+GO:0000987	610	25	19	cis-regulatory region sequence-specific DNA binding
+GO:0009887	124	205	8	animal organ morphogenesis
+GO:0030111	427	72	41	regulation of Wnt signaling pathway
+GO:2001234	268	84	47	negative regulation of apoptotic signaling pathway
+GO:0022612	437	168	90	gland morphogenesis
+GO:0045655	224	81	39	regulation of monocyte differentiation
+GO:0048568	304	225	58	embryonic organ development
+GO:1902107	147	223	99	positive regulation of leukocyte differentiation
+GO:0000981	606	9	2	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0008134	615	14	15	transcription factor binding
+GO:0061138	223	228	86	morphogenesis of a branching epithelium
+GO:0048701	516	133	92	embryonic cranial skeleton morphogenesis
+GO:0060463	243	55	37	lung lobe morphogenesis
+GO:0001228	611	1	1	DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0048754	267	210	94	branching morphogenesis of an epithelial tube
+GO:0007548	423	158	10	sex differentiation
+GO:0060412	344	166	46	ventricular septum morphogenesis
+GO:0001822	227	201	55	kidney development
+GO:0090277	510	164	74	positive regulation of peptide hormone secretion
+GO:1901701	107	45	54	cellular response to oxygen-containing compound
+GO:0048598	342	66	28	embryonic morphogenesis
+GO:0035239	100	103	21	tube morphogenesis
+GO:0003690	608	3	9	double-stranded DNA binding
+GO:0008284	57	144	72	positive regulation of cell population proliferation
+GO:0050708	429	221	53	regulation of protein secretion
+GO:0001067	603	7	5	transcription regulatory region nucleic acid binding
+GO:0000976	602	4	6	transcription cis-regulatory region binding
+GO:0003148	152	188	91	outflow tract septum morphogenesis
+GO:0008406	578	152	19	gonad development
+GO:0043069	85	44	59	negative regulation of programmed cell death
+GO:0051347	168	139	87	positive regulation of transferase activity
+GO:0045165	177	119	30	cell fate commitment

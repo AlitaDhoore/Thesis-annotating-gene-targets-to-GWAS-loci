@@ -11,7 +11,7 @@ The thesis itself was based on "DB_EM".
 User must provide lead SNPs in bed format and background genes in "DB_EM.py". A text file with background genes is provided as "background_amiGO2_ids.txt".
 
 ## Authors and acknowledgment
-### written by Alita D'hoore
-### special thanks to promotor Prof. Peter Claes and supervisor Seppe Goovaerts.
+written by Alita D'hoore
+special thanks to promotor Prof. Peter Claes and supervisor Seppe Goovaerts.
 
 
